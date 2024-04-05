@@ -15,3 +15,13 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+
+
+
+// function click(){
+//   alert('Click on the next phase to get started!')
+// }
+// click()
+
+
+// var button = document.addEventListener('click', click)
